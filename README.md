@@ -50,5 +50,6 @@
 - ⚡ Fun fact: I love building practical tools like exam and project management systems.\
 <br clear="both">
 
-![Snake animation](https://github.com/Sumaiya-uiu/my_profile/blob/output/snake.svg?raw=true)
+![Snake animation](https://github.com/Sumaiya-uiu/Sumaiya-uiu/blob/output/snake.svg)
+
 
