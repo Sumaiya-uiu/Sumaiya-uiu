@@ -2,14 +2,12 @@
 
 ###
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumaiya-uiu&show_icons=true&theme=dracula" />
-  <br>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiya-uiu&layout=compact&theme=dracula&hide=html,css,hack,typescript,jupyter%20notebook" /> 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiya-uiu&layout=compact&theme=dracula&hide=html,css,hack,typescript, c%2B%2B&cache_bust=1" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiya-uiu&layout=compact&theme=dracula&hide=html,css,hack,typescript,c%2B%2B&cache_bust=1" />
+<div align="center">
+  <img src="https://github-readme-stats-forked-lemon.vercel.app/api?username=Sumaiya-uiu&show_icons=true&theme=dracula" />
 
-</div> -->
+  <img src="https://github-readme-stats-forked-lemon.vercel.app/api/top-langs/?username=Sumaiya-uiu&layout=compact&theme=dracula" />
+
+</div>
 
 
 ###
