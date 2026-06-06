@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-forked-lemon.vercel.app/api?username=Sumaiya-uiu&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats-forked-sumaiyaa.vercel.app/api?username=Sumaiya-uiu&show_icons=true&theme=dracula" />
 
-  <img src="https://github-readme-stats-forked-lemon.vercel.app/api/top-langs/?username=Sumaiya-uiu&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats-forked-sumaiyaa.vercel.app/api/top-langs/?username=Sumaiya-uiu&layout=compact&theme=dracula" />
 
 </div>
 
